@@ -1,0 +1,1 @@
+A console client that connects to a service in a VM that starts a child console process with stdin/stdout redirected to pipes. With the help of additional threads, stdin/stdout data is transmitted through pipes and sockets between the client and the child process of the service.
