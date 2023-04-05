@@ -1,1 +1,1 @@
-# Tasks and laboratory work from the MIPT course on parallel programming
+ Tasks and laboratory work from the MIPT course on parallel programming
