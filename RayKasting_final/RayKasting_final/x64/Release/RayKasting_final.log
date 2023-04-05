@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Никита\source\repos\RayKasting_final\RayKasting_final\main.cpp(27,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\source\repos\RayKasting_final\RayKasting_final\main.cpp(34,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\source\repos\RayKasting_final\RayKasting_final\main.cpp(38,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Никита\source\repos\RayKasting_final\RayKasting_final\main.cpp(38,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  RayKasting_final.vcxproj -> C:\Users\Никита\source\repos\RayKasting_final\x64\Release\RayKasting_final.exe
