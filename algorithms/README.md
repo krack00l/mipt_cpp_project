@@ -1,1 +1,1 @@
-# Algorithms in c++
+# C++ algorithms and data structures
